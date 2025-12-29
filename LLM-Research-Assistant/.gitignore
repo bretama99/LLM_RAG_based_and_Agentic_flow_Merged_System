@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.venv/
+venv/
+.env
+.env.*
+
+# Streamlit
+.streamlit/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Outputs / data (adjust to your project)
+outputs/
+reports/
+app/data/
+app/uploads/
+app/tmp/
+*.pdf
+*.docx
+
+# Jupyter
+.ipynb_checkpoints/
